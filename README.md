@@ -93,6 +93,11 @@
 
 ---
 
+## 발표 자료 경로
+- 최종 발표 자료: `docs/presentation/최종 발표-Cloud9(유상준, 박명근, 정창규).pptx`
+
+---
+
 ## 이미지 출처
 - 배치 파이프라인: `batch pipeline details.png`
 - 실시간 파이프라인: `realtime pipeline details.png`
