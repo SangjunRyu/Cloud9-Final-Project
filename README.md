@@ -98,13 +98,5 @@
 
 ---
 
-## 이미지 출처
-- 배치 파이프라인: `batch pipeline details.png`
-- 실시간 파이프라인: `realtime pipeline details.png`
-- 대시보드 구조: `conceptual architecture.png`
-- SNS 이메일 알림: `sns email.png`
-
----
-
 ### 문의
 팀 Cloud9 | 서울시 소방 골든타임 데이터 분석 대시보드 프로젝트
